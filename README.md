@@ -1,7 +1,7 @@
 # 🏡 WanderLust
 
 WanderLust is a **full-stack web application** inspired by Airbnb, designed for exploring, listing, and booking vacation rentals around the world.
-Built on MVC Architecture it focuses on seamless user experience and modern web practices.
+Built using Node.js, Express, MongoDB Atlas, and EJS on MVC Architecture it focuses on seamless user experience and modern web practices.
 
 ---
 
